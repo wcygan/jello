@@ -2,9 +2,9 @@
 A simple word counting tool
 
 ### How to run
-`> jello -l -w -c -f <file_1> <file_2> ... <file_n>`  
-`> ... | jello` (piped)  
-`> jello < <file>` (redirected)
+`jello -l -w -c -f <file_1> <file_2> ... <file_n>`  
+`... | jello` (piped)  
+`jello < <file>` (redirected)
 
 ### Modifiers
 `-f`: supplies one to many files to inspect  
